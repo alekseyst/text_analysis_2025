@@ -4,9 +4,9 @@
 
 ## Программа
 
-|  Дата 	|   Тема	|  Материалы 	|  Записи 	| Задания |
+|  Дата 	|   Тема	|  Материалы 	|  [Записи](https://disk.yandex.ru/d/Gebs6o0xvt59yg) 	| Задания |
 |:---:	|---	|:---:	|:---:	|:---:	|
-|   18.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities.	|    [Практическое задание 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_1/Practical_1.md)	|    | |
+|   18.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities.	|    [Лекция 1](https://docs.google.com/presentation/d/18FqZLkSQLR92bHMsZxubqskf8_HCMCUQ8rWoGOEM_Xw/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_1/Practical_1.md)	|  [Запись 1_1](https://disk.yandex.ru/i/8vGdxDcFmVfkrQ)<br>[Запись 1_2](https://disk.yandex.ru/i/66aGT7AdORNMLQ)  | |
 |   25.01	|   Корпусная лингвистика 1: работа с корпусами	|    	|    | |
 |   1.02	|   Корпусная лингвистика 2: создание корпуса	|    	|    | |
 |   8.02	|   Работа с частотностями: Визуализация	|    	|    | Домашнее задание 1 |
