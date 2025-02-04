@@ -4,7 +4,7 @@
 
 ## Программа
 
-|  Дата 	|   Тема	|  Материалы 	|  [Записи](https://disk.yandex.ru/d/Gebs6o0xvt59yg) 	| &nbsp;&nbsp;&nbsp;Задания&nbsp;&nbsp;&nbsp; |
+|  Дата 	|   Тема	|  Материалы 	|  &nbsp;&nbsp;&nbsp;[Записи](https://disk.yandex.ru/d/Gebs6o0xvt59yg)&nbsp;&nbsp;&nbsp; 	| Задания |
 |:---:	|---	|:---:	|:---:	|:---:	|
 |   18.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities	|    [Лекция 1](https://docs.google.com/presentation/d/18FqZLkSQLR92bHMsZxubqskf8_HCMCUQ8rWoGOEM_Xw/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_1/Practical_1.md)	|  [Запись 1_1](https://disk.yandex.ru/i/8vGdxDcFmVfkrQ)<br>[Запись 1_2](https://disk.yandex.ru/i/66aGT7AdORNMLQ)  | |
 |   1.02	|   Понятие корпуса текстов. Типы аннотации	|    [Лекция 2](https://docs.google.com/presentation/d/1FgaDN_EaAfAbDhmQBa3liC2EPEm357-CnG8-3j7PiEE/edit?usp=sharing)	|  [Запись 2](https://disk.yandex.ru/i/9QyFWdwZiF2NIA)  | [Опциональное 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Optional/Optional_1.md) |
