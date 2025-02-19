@@ -10,10 +10,10 @@
 |   1.02	|   Понятие корпуса текстов. Типы аннотации	|    [Лекция 2](https://docs.google.com/presentation/d/1FgaDN_EaAfAbDhmQBa3liC2EPEm357-CnG8-3j7PiEE/edit?usp=sharing)	|  [Запись 2](https://disk.yandex.ru/i/9QyFWdwZiF2NIA)  | [Опциональное 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Optional/Optional_1.md) |
 |   8.02	|   Знакомство с Python	|   [Практическое задание 2](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_2/Practical_2_PythonIntro.ipynb) 	|    | |
 |   15.02	|   Морфологическая и синтаксическая разметка. Создание корпуса	|   [Практическое задание 3](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_3/Practical_3_Annotation.ipynb)<br>[Практическое задание 4](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_4/Practical_4_CreatingCorpus.ipynb) 	|    | Домашнее задание 1 |
-|   18.02	|   Работа с частотностями	|    	|    | |
-|   22.02	|   Работа с частотностями	|    	|    | Выбор тем проектов |
-|   1.02	|   Слот для инструмента на ваш выбор: кластеризация, стилометрия, …	|    	|    | Домашнее задание 2 |
-|   15.03	|   Что под обшивкой современных инструментов анализа языка — машинное обучение и нейросети	|    	|    |  |
+|   18.02	|   Создание и использование корпуса	|    	|    | |
+|   22.02	|   Работа с частотностями: статистика и визуализация	|    	|    | Выбор тем проектов |
+|   1.02	|   Скачивание текстов из Интернета	|    	|    | Домашнее задание 2 |
+|   15.03	|   Отдельные инструменты текстового анализа: ключевые слова, анализ тональности, стилометрия, кластеризация	|    	|    |  |
 |   TBA	|   Сессионная неделя	|    	|    |  Презентация проекта  |
 
 
