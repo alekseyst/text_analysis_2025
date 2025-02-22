@@ -11,7 +11,7 @@
 |   8.02	|   Знакомство с Python	|   [Практическое задание 2](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_2/Practical_2_PythonIntro.ipynb) 	|    | |
 |   15.02	|   Морфологическая и синтаксическая разметка. Создание корпуса	|   [Практическое задание 3](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_3/Practical_3_Annotation.ipynb) 	|    | |
 |   18.02	|   Создание и использование корпуса	|   [Практическое задание 4](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_4/Practical_4_CreatingCorpus.ipynb) 	|    | [Домашнее задание 1](https://github.com/alekseyst/text_analysis_2025/blob/main/Tasks/HW1/HW1.ipynb)  |
-|   22.02	|   Работа с частотностями: статистика и визуализация	|   [Практическое задание 4](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_5/Practical_5_Visualization.ipynb) 	|    | Выбор тем проектов |
+|   22.02	|   Работа с частотностями: статистика и визуализация	|   [Практическое задание 5](https://github.com/alekseyst/text_analysis_2025/blob/main/Practical_5/Practical_5_Visualization.ipynb) 	|    | Выбор тем проектов |
 |   1.02	|   Скачивание текстов из Интернета	|    	|    | Домашнее задание 2 |
 |   15.03	|   Отдельные инструменты текстового анализа: ключевые слова, анализ тональности, стилометрия, кластеризация	|    	|    |  |
 |   TBA	|   Сессионная неделя	|    	|    |  Презентация проекта  |
